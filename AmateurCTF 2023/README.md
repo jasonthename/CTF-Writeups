@@ -1,4 +1,4 @@
-# AmateurCTF 2023 - Journey of Novices
+# AmateursCTF 2023 - Journey of Novices
 
 In a team of six University Students from The University of Guyana's Cybersecurity [Club](https://www.instagram.com/uogcyberclub/), charge was taken at few of the challenges in the AmateurCTF 2023 where the team concluded in the top 30% across more than 800 teams.
 
